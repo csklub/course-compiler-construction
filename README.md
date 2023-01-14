@@ -14,7 +14,7 @@ Even if you are not a CS major, this will make you a better software engineer --
 
 ## Meeting Schedule
 
-- Saturdays 7 - 8 AM, if missed, Sundays 7 - 8 PM.
+- Saturdays 7 - 8 AM EAT, if missed, Sundays 7 - 8 PM EAT.
 - **Starts:** Jan 14
 - **Ends:** April 29
 - **Meeting Link:** shared on the mailing-list
