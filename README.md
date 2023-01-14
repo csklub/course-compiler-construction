@@ -46,6 +46,8 @@ Even if you are not a CS major, this will make you a better software engineer --
 - [Create Your Own Compiler - Caught in the Web (citw.dev)](https://citw.dev/tutorial/create-your-own-compiler?p=1)
 - _**More to be added**_
 
-## Contact Us
+## Limited Registration
 
-This first pilot program is _invite-only_ for now. However, if you really reaaally want to join, you can email us on **compilers@cs.ke**.
+This first pilot program is _invite-only_ for now. However, if you really reaaally want to join, fill in the form here - [https://forms.gle/da7fKkjv6fRwW1oS8](https://forms.gle/da7fKkjv6fRwW1oS8)
+
+📨 _**For any enquiries, you can reach us on compilers@cs.ke**_
