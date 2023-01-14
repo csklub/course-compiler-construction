@@ -16,8 +16,16 @@ Even if you are not a CS major, this will make you a better software engineer --
 
 - Saturdays 7 - 8 AM, if missed, Sundays 7 - 8 PM.
 - **Starts:** Jan 14
-- **Ends:** April 28
+- **Ends:** April 29
 - _Invite Only_ for now.
+
+{{TBD: add the schedule break-down image }}
+
+## Communication
+
+- **MAIN:** For all other communications, let's use the mailing-list - `compilers-cs-ke@googlegroups.com` (alias: `compilers@cs.ke`)
+- For quick chats, we can use the Slack Channel, `#course-compiler-construction`
+
 
 ## Reference Material
 
