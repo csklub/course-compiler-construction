@@ -17,14 +17,26 @@ Even if you are not a CS major, this will make you a better software engineer --
 - Saturdays 7 - 8 AM, if missed, Sundays 7 - 8 PM.
 - **Starts:** Jan 14
 - **Ends:** April 29
+= **Meeting Link:** shared on the mailing-list
 - _Invite Only_ for now.
 
-{{TBD: add the schedule break-down image }}
+## Course Schedule
+
+- This is self-paced, but our general agreed pace (for the slowest) should be 2 weeks to cover 1 week of [the Coursera course](https://www.coursera.org/learn/nand2tetris2). So we will take 14 weeks for the 7 c/weeks.
+
+![compilers-session](https://user-images.githubusercontent.com/261265/212459967-f858f07d-9150-45d2-9201-dc20fad8b15b.png)
+![image](https://user-images.githubusercontent.com/261265/212460076-964fd467-4450-4bc1-97f2-98822f13469f.png)
+
 
 ## Communication
 
-- **MAIN:** For all other communications, let's use the mailing-list - `compilers-cs-ke@googlegroups.com` (alias: `compilers@cs.ke`)
+- **MAIN:** For posterity, let's use the mailing-list - `compilers-cs-ke@googlegroups.com` (alias: `compilers@cs.ke`)
 - For quick chats, we can use the Slack Channel, `#course-compiler-construction`
+
+## Recordings
+
+- Will be shared privately on our mailing-list.
+- Will adhere to _our privacy terms_.
 
 
 ## Reference Material
