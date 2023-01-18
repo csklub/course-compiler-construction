@@ -2,6 +2,7 @@
 
 Our first attempt at auditing select Computer Science courses.
 
+> ℹ️ You can suggest what we should do next [here](https://github.com/csklub/next-course-suggestions)
 
 ## Motivation
 
@@ -31,6 +32,7 @@ Even if you are not a CS major, this will make you a better software engineer --
 ## Communication
 
 - **MAIN:** For posterity, let's use the mailing-list - `compilers-cs-ke@googlegroups.com` (alias: `compilers@cs.ke`)
+- See all the past communications here - [https://groups.google.com/g/compilers-cs-ke](https://groups.google.com/g/compilers-cs-ke)
 - For quick chats, we can use the Slack Channel, `#course-compiler-construction`
 
 ## Recordings
