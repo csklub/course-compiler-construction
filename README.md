@@ -35,6 +35,17 @@ Even if you are not a CS major, this will make you a better software engineer --
 - See all the past communications here - [https://groups.google.com/g/compilers-cs-ke](https://groups.google.com/g/compilers-cs-ke)
 - For quick chats, we can use the Slack Channel, `#course-compiler-construction`
 
+## Course Structure
+
+- **Module 0: Machine Lanaguage** - _**Key concepts:** op codes, mnemonics, binary machine language, symbolic machine language, assembly, low-level arithmetic, logical, addressing, branching, and I/O commands, CPU emulation, low-level programming._
+- **Module 1: Virtual Machine, Part I** - _**Key concepts:** two-tier compilation (overview), virtualization, virtual machines, VM abstraction, stack processing, pointers, VM implementation, VM translators._
+- **Module 2: Virtual Machine, Part II** - _**Key concepts:** branching, functions, function call-and-return, dynamic memory management, stack processing, pointers, standard mapping, VM implementation._
+- **Module 3: High-Level Language** - _**Key concepts:** procedural programming, object-based programming, classes, methods, functions, constructors, list processing, recursion, developing interactive applications, graphics optimization._
+- **Module 4: Compiler I (Syntax Analysis)** - _**Key concepts:** tokenizing, grammars, parsing, parse trees, XML / mark-up, compilation._
+- **Module 5: Compiler II (Code Generation)** - _**Key concepts:**  compiling procedural code, compiling the construction and manipulation of arrays and objects, code generation techniques, recursive compilation engine, symbol tables, memory management._
+- **Module 6: Operating System** - _Key concepts: running-time analysis, resource allocation, heap management, input handling, vector graphics, fonts, textual outputs, type conversions, string processing, booting, OS implementation issues._
+
+
 ## Recordings
 
 - Will be shared privately on our mailing-list.
