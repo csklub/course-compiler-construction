@@ -11,7 +11,7 @@ Even if you are not a CS major, this will make you a better software engineer --
 ## Primary Course
 
 - [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course) | Coursera](https://www.coursera.org/learn/nand2tetris2) - _start by signing up here, choose the **Audit** option. You are also encouraged to pay if you can._
-
+- [More polished version of the projects from HUJI](https://github.com/AvivYaish/nand2tetris_HUJI)
 
 ## Meeting Schedule
 
@@ -61,6 +61,7 @@ Even if you are not a CS major, this will make you a better software engineer --
 
 ## Tools, etc.
 
+- [Nand2Tetris IDE VScode Extension](https://marketplace.visualstudio.com/items?itemName=AvivYaish.nand-ide)
 - [https://godbolt.org/](https://godbolt.org/)
 
 ## Limited Registration
